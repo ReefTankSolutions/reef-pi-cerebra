@@ -1,0 +1,4 @@
+github.com/karalabe/hid v1.0.0 h1:+/CIMNXhSU/zIJgnIvBD2nKHxS/bnRHhhs9xBryLpPo=
+github.com/karalabe/hid v1.0.0/go.mod h1:Vr51f8rUOLYrfrWDFlV12GGQgM5AT8sVh+2fY4MPeu8=
+github.com/reef-pi/hal v0.0.0-20210110194416-096527efd4a0 h1:NcNTQVeL3vOTfqigD2Tibea3XYY9IxmHL8IhqGiBn1k=
+github.com/reef-pi/hal v0.0.0-20210110194416-096527efd4a0/go.mod h1:ymcJ0AbYfWXT1vyAbXOjKtWaFdCv1HHYmXDMWxJSWSM=
